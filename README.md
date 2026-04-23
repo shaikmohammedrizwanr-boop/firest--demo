@@ -1,2 +1,2 @@
-# firest--demo
-this is my first git reporisitatory 
+# First-Demo
+this is my first git Repository 
